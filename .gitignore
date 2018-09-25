@@ -61,3 +61,5 @@ typings/
 .next
 .idea/
 *.iml
+.idea/
+node_modules/
